@@ -5,7 +5,7 @@
 ## !important STILL IN PROGRESS
 
 <h2 align="center">
-  <img src="./Assets/GitHub/IMG_0102.HEIC" alt="still in progress" width="100%">
+  <img src="./Assets/GitHub/katana.jpg" alt="still in progress" width="100%">
 </h2>
 
 ## Project Specifications
@@ -16,4 +16,7 @@ small game 2D in Unity
 
 ## TODO LIST
 ### sleep - eat - code -repeat
- 
+ -[X] Setting up test map
+ -[X] player movement
+ -[X] jump
+ -[] player animation
