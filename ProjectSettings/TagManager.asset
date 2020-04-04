@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Ground
   - 
   - 
   - 
@@ -58,4 +58,10 @@ TagManager:
     locked: 0
   - name: Platforms
     uniqueID: 2654002603
+    locked: 0
+  - name: Front
+    uniqueID: 1387713525
+    locked: 0
+  - name: Dark
+    uniqueID: 2091483771
     locked: 0
